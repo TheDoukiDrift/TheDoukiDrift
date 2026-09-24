@@ -1,6 +1,6 @@
 # Douki
 
-![Background](img/catgirl_night.png)
+<!--![Background](img/catgirl_night.png) -->
 
 Student drawn to ML systems and desktop tools, purely for the fun of it. Based in <->, moving toward DevOps/MLOps, and I believe good infrastructure is the kind you never notice.
 I build things (yeah, sure) meant to be stable — infrastructure, ML pipelines, desktop tools, and sometimes things that probably shouldn't exist. What I'm into: ML/AI systems and desktop tools made so their own creator actually uses them.
